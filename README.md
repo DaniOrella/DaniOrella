@@ -9,5 +9,5 @@ Recentemente, atuei de forma multidisciplinar no projeto tecnológico *Empodera 
 - ⚙️ **Gestão Ágil:** Estruturação de demandas e gerenciamento de fluxo de equipe via Trello (Kanban).
 
 📫 **Onde me encontrar:**
-- [Meu LinkedIn] www.linkedin.com/in/daniele-orella-costa-275826252
+- [Meu LinkedIn](www.linkedin.com/in/daniele-orella-costa-275826252)
 - Localização: Boa Vista, RR
