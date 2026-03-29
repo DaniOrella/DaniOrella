@@ -1,16 +1,13 @@
-## Hi there 👋
+### Olá! Sou a Dani 👋
 
-<!--
-**DaniOrella/DaniOrella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Ciência da Computação apaixonada por entender o ciclo completo de desenvolvimento de um software: da concepção das ideias até o código no ar e a garantia de qualidade.
 
-Here are some ideas to get you started:
+🚀 **Minha atuação prática:**
+Recentemente, atuei de forma multidisciplinar no projeto tecnológico *Empodera Solidário* (uma parceria estratégica entre a UTFPR e o Itaipu Parquetec). Minhas frentes de trabalho envolvem:
+- 💻 **Front-end:** Criação de Landing Pages com HTML, CSS e JavaScript.
+- 🔍 **QA / Testes:** Execução de testes manuais e mapeamento visual de cenários no Miro.
+- ⚙️ **Gestão Ágil:** Estruturação de demandas e gerenciamento de fluxo de equipe via Trello (Kanban).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Onde me encontrar:**
+- [Meu LinkedIn]www.linkedin.com/in/daniele-orella-costa-275826252
+- Localização: Boa Vista, RR
